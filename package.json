@@ -1,0 +1,14 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "First Dive into Back-End Development!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Sanjeev Kumar",
+  "license": "ISC"
+}
